@@ -2,7 +2,7 @@
 
 
 
-- 🐱‍🏍 Hoje trabalho como Front End Developer.
+- 🐱‍🏍 Trabalho como Front End Developer.
 - 💻 A programação é uma paixão, sou um amante de tecnologia e entusiasta em inovações. Sempre buscando conhecimentos, novidades e o que há de novo em desenvolvimento e tecnologias.
 
 <div>
