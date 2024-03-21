@@ -3,7 +3,8 @@
 
 
 - 🐱‍🏍 Trabalho como Front End Developer.
-- 💻 A programação é uma paixão, sou um amante de tecnologia e entusiasta em inovações. Sempre buscando conhecimentos, novidades e o que há de novo em desenvolvimento e tecnologias.
+- 💻 Olá, eu sou José Augusto, mas pode me chamar de Guto.
+Como Desenvolvedor Front End, mergulho de cabeça na programação, minha verdadeira paixão. Sou aficionado por tecnologia e obcecado por inovações. Estou sempre ávido por novos conhecimentos e mantenho-me atualizado com as mais recentes tendências em desenvolvimento e tecnologia.
 
 <div>
   <a href="https://github.com/joseaugustoss">
